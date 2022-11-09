@@ -173,10 +173,10 @@ const hamMenu = document.querySelector('.hamburger-menu'); hamMenu.addEventListe
 });
 ```
 
-![Not Activated](../../../../../../D:/Obsidian%20Vault/Obsidian%20Vault/Web%20Developer/What%20I've%20Learned/Hamburger%20menu/Pasted%20image%2020221109204753.png)
+![Not Activated](https://github.com/Shubham-yelekar/What-I-ve-Learned/blob/master/Hamburger%20menu/assets/Not%20Activated.png)
 
 
 ## Activated
 
-![Activatedd List](../../../../../../D:/Obsidian%20Vault/Obsidian%20Vault/Web%20Developer/What%20I've%20Learned/Hamburger%20menu/Pasted%20image%2020221109210526.png)
+![Activatedd List](https://github.com/Shubham-yelekar/What-I-ve-Learned/blob/master/Hamburger%20menu/assets/Activated.png)
 
