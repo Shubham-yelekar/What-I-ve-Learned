@@ -174,7 +174,7 @@ const hamMenu = document.querySelector('.hamburger-menu'); hamMenu.addEventListe
 ```
 
 
-![[Pasted image 20221109203523.png]]
+![[Pasted image 20221109204753.png]]
 
 ## Activated
 
